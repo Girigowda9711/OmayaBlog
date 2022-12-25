@@ -27,6 +27,7 @@ public class OmayaBlog2 {
 		sel.selectByVisibleText("doc 2");
 		System.out.println("dropdown is selected");
 		System.out.println("Hey its new sop line added by girigowda");
+		System.out.println("i added one more sop statement");
 		driver.quit();
 		}
 	

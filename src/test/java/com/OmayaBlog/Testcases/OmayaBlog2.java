@@ -26,6 +26,7 @@ public class OmayaBlog2 {
 		Select sel=new Select(drop);
 		sel.selectByVisibleText("doc 2");
 		System.out.println("dropdown is selected");
+		System.out.println("Hey its new sop line added by girigowda")
 		driver.quit();
 		}
 	
@@ -42,6 +43,7 @@ public class OmayaBlog2 {
 		WebElement text = driver.findElement(By.xpath("//input[@name='q' and @type='text' and @class='gsc-input']"));
 		text.sendKeys("Girigowda");
 		System.out.println("fourth test case is passed");
+		System.out.println("its new line added by girigowda");
 		driver.quit();
 		
 	}

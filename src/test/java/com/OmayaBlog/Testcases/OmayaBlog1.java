@@ -28,6 +28,7 @@ public class OmayaBlog1 {
 		driver.switchTo().defaultContent();
 		WebElement page = driver.findElement(By.xpath("//a[text()='Page One']"));
 		System.out.println(page);
+		System.out.println("it is successfull");
 		driver.quit();
 
 

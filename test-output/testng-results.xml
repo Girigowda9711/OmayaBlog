@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="28987" started-at="2022-12-25T18:42:52 IST" finished-at="2022-12-25T18:43:21 IST">
+  <suite name="Default suite" duration-ms="28185" started-at="2022-12-25T19:19:28 IST" finished-at="2022-12-25T19:19:56 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="28987" started-at="2022-12-25T18:42:52 IST" finished-at="2022-12-25T18:43:21 IST">
-      <class name="com.OmayaBlog.Testcases.OmayaBlog1">
-        <test-method status="PASS" signature="Firsttestcase()[pri:0, instance:com.OmayaBlog.Testcases.OmayaBlog1@2173f6d9]" name="Firsttestcase" duration-ms="15307" started-at="2022-12-25T18:42:52 IST" finished-at="2022-12-25T18:43:08 IST">
+    <test name="Default test" duration-ms="28185" started-at="2022-12-25T19:19:28 IST" finished-at="2022-12-25T19:19:56 IST">
+      <class name="com.OmayaBlog.Testcases.OmayaBlog2">
+        <test-method status="PASS" signature="fourthtestcase()[pri:0, instance:com.OmayaBlog.Testcases.OmayaBlog2@2173f6d9]" name="fourthtestcase" duration-ms="14811" started-at="2022-12-25T19:19:28 IST" finished-at="2022-12-25T19:19:43 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Firsttestcase -->
-        <test-method status="PASS" signature="secondtestcase()[pri:0, instance:com.OmayaBlog.Testcases.OmayaBlog1@2173f6d9]" name="secondtestcase" duration-ms="13617" started-at="2022-12-25T18:43:08 IST" finished-at="2022-12-25T18:43:21 IST">
+        </test-method> <!-- fourthtestcase -->
+        <test-method status="PASS" signature="thirdtestcase()[pri:0, instance:com.OmayaBlog.Testcases.OmayaBlog2@2173f6d9]" name="thirdtestcase" duration-ms="13300" started-at="2022-12-25T19:19:43 IST" finished-at="2022-12-25T19:19:56 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- secondtestcase -->
-      </class> <!-- com.OmayaBlog.Testcases.OmayaBlog1 -->
+        </test-method> <!-- thirdtestcase -->
+      </class> <!-- com.OmayaBlog.Testcases.OmayaBlog2 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
